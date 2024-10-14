@@ -27,5 +27,5 @@ This project is a Python-based virtual assistant that responds to real-time voic
 ## **Installation**
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/virtual-assistant.git
-   cd virtual-assistant
+   git clone https://github.com/Ritik-katariya/Matrix-A-Virtual-Assistant-.git
+   cd Matrix-A-Virtual-Assistant-
