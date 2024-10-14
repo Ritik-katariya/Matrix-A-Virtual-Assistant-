@@ -22,6 +22,8 @@ This project is a Python-based virtual assistant that responds to real-time voic
 - **[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)** or **[Selenium](https://pypi.org/project/selenium/):** For web scraping and searching on Google.
 - **[pickle](https://docs.python.org/3/library/pickle.html)** or **[json](https://docs.python.org/3/library/json.html):** For storing and retrieving to-do list data.
 
+## **Watch Video**
+- **[Watch on Youtube](https://youtu.be/Pw8aKvvi1us?si=PbGJwjFJSBx6txIY):**
 ## **Installation**
 1. **Clone the repository:**
    ```bash
